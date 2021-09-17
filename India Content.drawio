@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T22:33:26.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="zsDHSK88uz4BO5zTtgLl" version="15.2.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-09-17T09:44:39.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="V2XpkhorCcdWy7GPlPag" version="15.2.5" type="github" pages="8">
   <diagram id="XkeEcHWMWixy_8PY1S1j" name="Delhi - Missions">
-    <mxGraphModel dx="1528" dy="-1592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2487" dy="-1712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -551,7 +551,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Jaunpur - Missions" id="ygz-d_fLfGGNr09Rxcxi">
-    <mxGraphModel dx="2567" dy="-1592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8294" dy="166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="VUPSgQq1tERI6KnbCyO7-0" />
         <mxCell id="VUPSgQq1tERI6KnbCyO7-1" parent="VUPSgQq1tERI6KnbCyO7-0" />
@@ -793,7 +793,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Jaunpur - Events" id="Iy-79MAOC64jsfRCEvIe">
-    <mxGraphModel dx="1527" dy="-417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2487" dy="-543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PODLhlRKJomASKId_uNg-0" />
         <mxCell id="PODLhlRKJomASKId_uNg-1" parent="PODLhlRKJomASKId_uNg-0" />
@@ -813,7 +813,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bengal - Missions" id="aV6mi_JymseO1nImrvZ1">
-    <mxGraphModel dx="6028" dy="-284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6622" dy="-543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="DCXzsOF9-6umvvQtCnu2-0" />
         <mxCell id="DCXzsOF9-6umvvQtCnu2-1" parent="DCXzsOF9-6umvvQtCnu2-0" />
@@ -1143,7 +1143,7 @@
         <mxCell id="WGh3ryCywYbVvqpKSyAO-5" value="&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b&gt;Conquests of Shah-i-Bangalah&lt;/b&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Descr:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;span&gt;&lt;i style=&quot;font-weight: bold&quot;&gt;Trigger:&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;1)&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Effect:&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;span&gt;Add claims to Nepal Area&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to Bhutan Area&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to Assam Area&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to Bihar Area&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to Purvanchal Area&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to Mithila Area&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to 2091&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to 2043&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to 552&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to 441&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to 562&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;align=left;verticalAlign=top;" parent="DCXzsOF9-6umvvQtCnu2-1" vertex="1">
           <mxGeometry x="-4000" y="6320" width="400" height="321" as="geometry" />
         </mxCell>
-        <mxCell id="WGh3ryCywYbVvqpKSyAO-9" value="&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;b&gt;da&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;align=left;verticalAlign=top;" parent="DCXzsOF9-6umvvQtCnu2-1" vertex="1">
+        <mxCell id="WGh3ryCywYbVvqpKSyAO-9" value="&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;b&gt;Cotton Exports&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px&quot;&gt;&lt;b&gt;&lt;i&gt;Descr:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;i style=&quot;font-weight: bold&quot;&gt;Trigger:&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;1)&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;b&gt;&lt;i&gt;Effect:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;align=left;verticalAlign=top;" parent="DCXzsOF9-6umvvQtCnu2-1" vertex="1">
           <mxGeometry x="-2560" y="5120" width="400" height="321" as="geometry" />
         </mxCell>
         <mxCell id="uw48yf9bW0YXxx4GZYDN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="DCXzsOF9-6umvvQtCnu2-1" source="JWnePNkw96F2t5ZXiGMS-0" edge="1">
