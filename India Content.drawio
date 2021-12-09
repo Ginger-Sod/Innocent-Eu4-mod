@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T14:27:58.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="-UFzo1A1iodI8SQw_DSO" version="15.9.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-12-09T23:07:28.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="SH27C53Rf32dAfbyAqLr" version="15.9.1" type="github" pages="11">
   <diagram name="Delhi - Events" id="7PyVej1L49OewMhZc0Zd">
-    <mxGraphModel dx="1457" dy="-683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2489" dy="-407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="zxpnnZI28Wbn_0HLuBUN-0" />
         <mxCell id="zxpnnZI28Wbn_0HLuBUN-1" parent="zxpnnZI28Wbn_0HLuBUN-0" />
@@ -362,7 +362,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bengal - Missions" id="aV6mi_JymseO1nImrvZ1">
-    <mxGraphModel dx="6482" dy="84" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9117" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="DCXzsOF9-6umvvQtCnu2-0" />
         <mxCell id="DCXzsOF9-6umvvQtCnu2-1" parent="DCXzsOF9-6umvvQtCnu2-0" />
@@ -836,7 +836,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bengal - Events" id="n97ODfyNZi9C0QEdCTes">
-    <mxGraphModel dx="1527" dy="-417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3043" dy="-153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="S1sNCPXn6ub7pkF1FpU2-0" />
         <mxCell id="S1sNCPXn6ub7pkF1FpU2-1" parent="S1sNCPXn6ub7pkF1FpU2-0" />
@@ -934,7 +934,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bengal - Renaissance Disaster" id="VWsgypL9DtmBP9uuHsrH">
-    <mxGraphModel dx="1422" dy="-407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2770" dy="101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8tvUypu7rKCEmDKZhhfn-0" />
         <mxCell id="8tvUypu7rKCEmDKZhhfn-1" parent="8tvUypu7rKCEmDKZhhfn-0" />
@@ -1059,7 +1059,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Gujarat - Missions" id="huQAZ9a07DYnGyWrJAaS">
-    <mxGraphModel dx="5985" dy="-162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5524" dy="-153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="J85Xqlta3njbegy8o-nm-0" />
         <mxCell id="J85Xqlta3njbegy8o-nm-1" parent="J85Xqlta3njbegy8o-nm-0" />
@@ -1111,7 +1111,7 @@
         <mxCell id="HjZ7QNz5jctCh4NRV4tL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="J85Xqlta3njbegy8o-nm-1" source="HjZ7QNz5jctCh4NRV4tL-4" target="HjZ7QNz5jctCh4NRV4tL-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjZ7QNz5jctCh4NRV4tL-4" value="&lt;div align=&quot;left&quot;&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Bab al-Makkah&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Descr:&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px ; line-height: 14.4px&quot;&gt;&lt;i style=&quot;font-weight: bold ; font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;T&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;rigger:&lt;/font&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;1) (517 - Surat) Has 100% Support for global trade&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;2) (517 - Surat) Has 20 development&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;3)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;(517 - Surat)&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Is prosperous&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot; style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Effect:&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
+        <mxCell id="HjZ7QNz5jctCh4NRV4tL-4" value="&lt;div align=&quot;left&quot;&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Bab al-Makkah&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Descr:&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px ; line-height: 14.4px&quot;&gt;&lt;i style=&quot;font-weight: bold ; font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;T&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;rigger:&lt;/font&gt;&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;1) (517 - Surat) Has 100% Support for global trade&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;2) (517 - Surat) Has 20 development&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;3)&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;(517 - Surat)&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Is prosperous&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot; style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Effect:&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;(517 - Surat) Add or upgrade Trade Building&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;(517 - Surat) &lt;b&gt;Gateway to Mecca: &lt;/b&gt;+10% Global Foreign Trade Power, -10% Local Development Cost for 25 years&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
           <mxGeometry x="-2720" y="2319.99" width="400" height="320" as="geometry" />
         </mxCell>
         <mxCell id="bhOBmcyc4FKzOdMvGxT_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="J85Xqlta3njbegy8o-nm-1" source="HjZ7QNz5jctCh4NRV4tL-8" target="HjZ7QNz5jctCh4NRV4tL-0" edge="1">
@@ -1209,7 +1209,7 @@
         <mxCell id="JIHVNPlMaMYmsvwkmBya-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="J85Xqlta3njbegy8o-nm-1" source="lNrvRtRdFliPzeS2agfV-1" target="HjZ7QNz5jctCh4NRV4tL-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lNrvRtRdFliPzeS2agfV-1" value="&lt;b&gt;A Question of Foreign Factories&lt;br&gt;&lt;i&gt;Descr:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Trigger:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;1)&amp;nbsp;&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Effect:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;b&gt;Event: &lt;/b&gt;&quot;Portuguese Factories&quot;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
+        <mxCell id="lNrvRtRdFliPzeS2agfV-1" value="&lt;b&gt;A Question of Foreign Factories&lt;br&gt;&lt;i&gt;Descr:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Trigger:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;1) Know any Western Technology Nation&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;2) Has a trade deal with a western tech nation OR&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;2)&amp;nbsp;&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Effect:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;b&gt;Event: &lt;/b&gt;&quot;Portuguese Factories&quot;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
           <mxGeometry x="-1279.9982812500002" y="3520.00390625" width="400" height="321" as="geometry" />
         </mxCell>
         <mxCell id="zzJUZISvudl1chH3_5un-0" value="&lt;b&gt;Deterrence&amp;nbsp;With Gold&lt;/b&gt;&lt;br&gt;&lt;i style=&quot;font-weight: bold&quot;&gt;Descr:&amp;nbsp;&lt;/i&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Trigger:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;1) Owns 1 Gold or Silver Producing Province&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;2) Has no inflation&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;3) Has less than 1 interest&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Effect:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;b&gt;Deterrence&lt;/b&gt;&lt;b&gt;&amp;nbsp;With Gold: &lt;/b&gt;&lt;span&gt;-15% Land Maintenance Modifier, +1 Diplomatic Reputation, for 40 years&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
@@ -1230,14 +1230,8 @@
         <mxCell id="zzJUZISvudl1chH3_5un-8" value="&lt;b&gt;Unifying the Gujarati Sphere&lt;br&gt;&lt;i&gt;Descr:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Trigger:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;1) Has 80 development in your primary culture&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;2) Has 66% Manpower OR&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;2) Has 2 merc companies&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Effect:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to all Gujarat and Saurashtra Cultured Provinces&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
           <mxGeometry x="-2239.99828125" y="3919.00390625" width="400" height="321" as="geometry" />
         </mxCell>
-        <mxCell id="zzJUZISvudl1chH3_5un-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="J85Xqlta3njbegy8o-nm-1" source="zzJUZISvudl1chH3_5un-9" target="zzJUZISvudl1chH3_5un-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zzJUZISvudl1chH3_5un-9" value="&lt;b&gt;Cultivate the Lipi&lt;br&gt;&lt;i&gt;Descr:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Trigger:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;1) Owns all provinces of Gujarat Culture&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;2) Owns All provinces of Saurashtra Culture&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;3) Has embraced Renaissance&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Effect:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;All Mentioned Provinces, &lt;b&gt;Gujarati Lipi: &lt;/b&gt;+15% Local Institution Spread, -1 Local Unrest, until the end of the game&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Gain 50 Dip power&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
           <mxGeometry x="-2719.99828125" y="4321.00390625" width="400" height="321" as="geometry" />
-        </mxCell>
-        <mxCell id="zzJUZISvudl1chH3_5un-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="J85Xqlta3njbegy8o-nm-1" source="zzJUZISvudl1chH3_5un-12" target="zzJUZISvudl1chH3_5un-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fcwIjBSDeU3xD4uIliEN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="J85Xqlta3njbegy8o-nm-1" source="zzJUZISvudl1chH3_5un-12" target="fcwIjBSDeU3xD4uIliEN-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1245,11 +1239,8 @@
         <mxCell id="bhOBmcyc4FKzOdMvGxT_-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="J85Xqlta3njbegy8o-nm-1" source="zzJUZISvudl1chH3_5un-12" target="bhOBmcyc4FKzOdMvGxT_-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zzJUZISvudl1chH3_5un-12" value="&lt;b&gt;Reduce Champaner&lt;br&gt;BASE GAME&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
+        <mxCell id="zzJUZISvudl1chH3_5un-12" value="&lt;b&gt;Reduce Champaner&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px&quot;&gt;&lt;b&gt;&lt;i&gt;Trigger:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;1) Has 80 development in your primary culture&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;2) Has 66% Manpower OR&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;2) Has 2 merc companies&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;b&gt;&lt;i&gt;Effect:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to all Gujarat and Saurashtra Cultured Provinces&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
           <mxGeometry x="-2239.99828125" y="4321.00390625" width="400" height="321" as="geometry" />
-        </mxCell>
-        <mxCell id="zzJUZISvudl1chH3_5un-16" value="&lt;b&gt;Mahmudabad&lt;br&gt;&lt;/b&gt;&lt;b&gt;BASE GAME&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
-          <mxGeometry x="-2719.99828125" y="4720.00390625" width="400" height="321" as="geometry" />
         </mxCell>
         <mxCell id="fcwIjBSDeU3xD4uIliEN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="J85Xqlta3njbegy8o-nm-1" source="zzJUZISvudl1chH3_5un-21" target="fcwIjBSDeU3xD4uIliEN-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1372,7 +1363,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pvhoLWl3IkYsGqLXgzNg" name="Malwa - Missions">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4155" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hqIp5TppwI-odAg6H8Hc-0" />
         <mxCell id="hqIp5TppwI-odAg6H8Hc-1" parent="hqIp5TppwI-odAg6H8Hc-0" />
@@ -1380,7 +1371,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Multan - Missions" id="9rsAF8oA85FfTAU1UXD4">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CH2rCokX2gu_u48KjuSN-0" />
         <mxCell id="CH2rCokX2gu_u48KjuSN-1" parent="CH2rCokX2gu_u48KjuSN-0" />
@@ -1391,7 +1382,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bahamanis - Missions" id="bFlu118CQ6v_qOL5w5gD">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KzOs26jP5G_96FBtu8tR-0" />
         <mxCell id="KzOs26jP5G_96FBtu8tR-1" parent="KzOs26jP5G_96FBtu8tR-0" />
