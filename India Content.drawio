@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T23:18:21.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="wYF1pmrg0LoWELXJUnPG" version="15.9.6" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-12-19T14:04:37.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="O_O7EsIF6ww2uciq7oYj" version="16.0.0" type="github" pages="11">
   <diagram name="Delhi - Events" id="7PyVej1L49OewMhZc0Zd">
-    <mxGraphModel dx="4151" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1739" dy="-417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="zxpnnZI28Wbn_0HLuBUN-0" />
         <mxCell id="zxpnnZI28Wbn_0HLuBUN-1" parent="zxpnnZI28Wbn_0HLuBUN-0" />
@@ -1059,7 +1059,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Gujarat - Missions" id="huQAZ9a07DYnGyWrJAaS">
-    <mxGraphModel dx="5524" dy="-153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="15801" dy="3911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="J85Xqlta3njbegy8o-nm-0" />
         <mxCell id="J85Xqlta3njbegy8o-nm-1" parent="J85Xqlta3njbegy8o-nm-0" />
@@ -1258,7 +1258,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bhOBmcyc4FKzOdMvGxT_-0" value="&lt;b&gt;Harbours of the Konkan Coast&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Trigger:&lt;br&gt;&lt;/i&gt;&lt;/b&gt;1)&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Effect:&lt;br&gt;&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
-          <mxGeometry x="-2239.99828125" y="5121.00390625" width="400" height="321" as="geometry" />
+          <mxGeometry x="-2239.99828125" y="4720.00390625" width="400" height="321" as="geometry" />
         </mxCell>
         <mxCell id="szlw3v2-_ltAVyxL3Dyo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="J85Xqlta3njbegy8o-nm-1" source="_VZdbn4pc_nkOf8_ftw7-0" target="szlw3v2-_ltAVyxL3Dyo-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1291,16 +1291,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ozKG4qNAHjxoJGmC8iEd-4" value="&lt;b&gt;The 2nd Triangle Trade&lt;br&gt;&lt;i&gt;Descr:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Trigger:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;1) East Africa&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Effect:&amp;nbsp;&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
-          <mxGeometry x="-1279.9982812500002" y="5520.00390625" width="400" height="321" as="geometry" />
+          <mxGeometry x="-1279.9982812500002" y="5119.00390625" width="400" height="321" as="geometry" />
         </mxCell>
         <mxCell id="ozKG4qNAHjxoJGmC8iEd-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="J85Xqlta3njbegy8o-nm-1" source="ozKG4qNAHjxoJGmC8iEd-6" target="ozKG4qNAHjxoJGmC8iEd-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ozKG4qNAHjxoJGmC8iEd-6" value="&lt;b&gt;Venture Further&lt;br&gt;&lt;i&gt;Descr:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Trigger:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;1) East Africa&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Effect:&amp;nbsp;&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
-          <mxGeometry x="-1759.9982812500002" y="5919.00390625" width="400" height="321" as="geometry" />
+          <mxGeometry x="-1759.9982812500002" y="5518.00390625" width="400" height="321" as="geometry" />
         </mxCell>
         <mxCell id="ozKG4qNAHjxoJGmC8iEd-9" value="&lt;b&gt;No Cargo Left Empty!&lt;br&gt;&lt;i&gt;Descr:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Trigger:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;1) East Africa&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Effect:&amp;nbsp;&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b&gt;Shobhachand Sowchand: &lt;/b&gt;+10% Trade Efficiency, -10% Diplo Tech Cost Modifier, for 30 years&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;Distribute 20 random development to all owned coastal centres of trade&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
-          <mxGeometry x="-1759.9982812500002" y="6720.00390625" width="400" height="321" as="geometry" />
+          <mxGeometry x="-1759.9982812500002" y="6319.00390625" width="400" height="321" as="geometry" />
         </mxCell>
         <mxCell id="ozKG4qNAHjxoJGmC8iEd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="J85Xqlta3njbegy8o-nm-1" source="ozKG4qNAHjxoJGmC8iEd-15" target="ozKG4qNAHjxoJGmC8iEd-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1309,44 +1309,44 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ozKG4qNAHjxoJGmC8iEd-15" value="&lt;b&gt;Securing A Source of Cavalry&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Descr:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;HORSES&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Trigger:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;1) Owns Mogadishu Area&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;2) Mogadishu Area has 45 Development&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Effect:&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;b&gt;Arabian Horses: &lt;/b&gt;+15% Cavalry to Infantry Ration, +0.2 Cavalry Shock, until the end of the game&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to Ajuuran Area&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to Majeerteen Area&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to Northern Swahili Coast Area&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to Mombasa Area&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to Central Swahili Coast Area&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Add claims to Mozambique Area&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;1205 - Upgrade CoT by 1&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
-          <mxGeometry x="-1279.9991119384767" y="5918.999189147949" width="400" height="320" as="geometry" />
+          <mxGeometry x="-1279.9991119384767" y="5517.999189147949" width="400" height="320" as="geometry" />
         </mxCell>
         <mxCell id="bTOrfqxn1YRsuoVJKnk9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="J85Xqlta3njbegy8o-nm-1" source="ozKG4qNAHjxoJGmC8iEd-16" target="ozKG4qNAHjxoJGmC8iEd-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ozKG4qNAHjxoJGmC8iEd-16" value="&lt;b&gt;Growing the Diaspora&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Descr:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;HORSES&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Trigger:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;1) Owns Ajuuran&amp;nbsp;Area&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;2) Owns Mogadishu Area&lt;/div&gt;3) Northern Swahili Coast Area&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;4) Owns Mombasa Area&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;5) Owns Central Swahili Coast Area&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;6) Owns Mozambique Area&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;7) Has 40% Trade Power in &quot;Zanzibar&quot; Trade Node&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Effect:&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;Every owned province in &quot;Zanzibar&quot; Trade Node. &lt;b&gt;Gujarati Diaspora: &lt;/b&gt;-5% Local Development Cost, -15% Culture Conversion Cost, for 30 years&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
-          <mxGeometry x="-1279.9991119384767" y="6318.999189147949" width="400" height="320" as="geometry" />
+          <mxGeometry x="-1279.9991119384767" y="5917.999189147949" width="400" height="320" as="geometry" />
         </mxCell>
         <mxCell id="bTOrfqxn1YRsuoVJKnk9-0" value="&lt;b&gt;Assume Swahili Suzerainty&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Descr:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;HORSES&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Trigger:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;1) Swahili Coast&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Effect:&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Gain 2 years of trade income&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
-          <mxGeometry x="-799.9991119384767" y="6320.999189147949" width="400" height="320" as="geometry" />
+          <mxGeometry x="-799.9991119384767" y="5919.999189147949" width="400" height="320" as="geometry" />
         </mxCell>
         <mxCell id="a66sukkYOAZBUlZFlalr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="J85Xqlta3njbegy8o-nm-1" source="a66sukkYOAZBUlZFlalr-0" target="RY0ajAVSEPJbeSmk8Bvm-0" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2010" y="6240" as="targetPoint" />
+            <mxPoint x="-2010" y="5839" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a66sukkYOAZBUlZFlalr-0" value="&lt;b&gt;Kozhikode&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Trigger:&lt;br&gt;&lt;/i&gt;&lt;/b&gt;1)&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Effect:&lt;br&gt;&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
-          <mxGeometry x="-2239.99828125" y="5520.00390625" width="400" height="321" as="geometry" />
+          <mxGeometry x="-2239.99828125" y="5119.00390625" width="400" height="321" as="geometry" />
         </mxCell>
         <mxCell id="a66sukkYOAZBUlZFlalr-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="J85Xqlta3njbegy8o-nm-1" source="a66sukkYOAZBUlZFlalr-2" target="a66sukkYOAZBUlZFlalr-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a66sukkYOAZBUlZFlalr-2" value="&lt;b&gt;Red Sea Ports&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Trigger:&lt;br&gt;&lt;/i&gt;&lt;/b&gt;1)&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Effect:&lt;br&gt;&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
-          <mxGeometry x="-2719.99828125" y="5520.00390625" width="400" height="321" as="geometry" />
+          <mxGeometry x="-2719.99828125" y="5119.00390625" width="400" height="321" as="geometry" />
         </mxCell>
         <mxCell id="a66sukkYOAZBUlZFlalr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="J85Xqlta3njbegy8o-nm-1" source="a66sukkYOAZBUlZFlalr-5" target="RY0ajAVSEPJbeSmk8Bvm-0" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2139.99828125" y="6318.00390625" as="targetPoint" />
+            <mxPoint x="-2139.99828125" y="5917.00390625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a66sukkYOAZBUlZFlalr-5" value="&lt;b&gt;Mocha and Spice&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Trigger:&lt;br&gt;&lt;/i&gt;&lt;/b&gt;1)&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Effect:&lt;br&gt;&lt;/i&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
-          <mxGeometry x="-2719.99828125" y="5921.00390625" width="400" height="321" as="geometry" />
+          <mxGeometry x="-2719.99828125" y="5520.00390625" width="400" height="321" as="geometry" />
         </mxCell>
         <mxCell id="RY0ajAVSEPJbeSmk8Bvm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="J85Xqlta3njbegy8o-nm-1" source="RY0ajAVSEPJbeSmk8Bvm-0" target="ozKG4qNAHjxoJGmC8iEd-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RY0ajAVSEPJbeSmk8Bvm-0" value="&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b&gt;Supporting the Merchants of Ceylon&lt;/b&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Descr:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;span&gt;&lt;i style=&quot;font-weight: bold&quot;&gt;Trigger:&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;1) Owns the North Lanka Area&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;2) Owns the South Lanka Area&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Effect:&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;North Lanka Area, South Lanka Area, &lt;b&gt;Improved Cinnamon Trade: &lt;/b&gt;+10% Trade Value Modifier, until the end of the game&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
-          <mxGeometry x="-2240" y="6320" width="400" height="321" as="geometry" />
+          <mxGeometry x="-2240" y="5919" width="400" height="321" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1363,7 +1363,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pvhoLWl3IkYsGqLXgzNg" name="Malwa - Missions">
-    <mxGraphModel dx="4155" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1874" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hqIp5TppwI-odAg6H8Hc-0" />
         <mxCell id="hqIp5TppwI-odAg6H8Hc-1" parent="hqIp5TppwI-odAg6H8Hc-0" />
@@ -1371,7 +1371,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Multan - Missions" id="9rsAF8oA85FfTAU1UXD4">
-    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1874" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CH2rCokX2gu_u48KjuSN-0" />
         <mxCell id="CH2rCokX2gu_u48KjuSN-1" parent="CH2rCokX2gu_u48KjuSN-0" />
