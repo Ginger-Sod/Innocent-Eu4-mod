@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T08:08:54.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="-FJL-q8BAXeNKW5vx4_b" version="17.4.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-04-01T08:46:09.047Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="hmPA_rSWdezuHIp9OH1J" version="17.4.0" type="github" pages="11">
   <diagram name="Delhi - Events" id="7PyVej1L49OewMhZc0Zd">
     <mxGraphModel dx="2617" dy="-351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1134,7 +1134,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Gujarat - Missions" id="huQAZ9a07DYnGyWrJAaS">
-    <mxGraphModel dx="4331" dy="-702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3890" dy="-916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="J85Xqlta3njbegy8o-nm-0" />
         <mxCell id="J85Xqlta3njbegy8o-nm-1" parent="J85Xqlta3njbegy8o-nm-0" />
@@ -1199,7 +1199,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HjZ7QNz5jctCh4NRV4tL-14" value="&lt;b&gt;Banyan Companies&lt;br&gt;&lt;i&gt;Descr:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Trigger:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;1) Capital, Has a level 3 CoT OR&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;1) Capital, Has a Trade Depot&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;2) Jain estate has 60 loyalty OR&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;2) Has 50 mercantilism&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;3) Has embraced colonialism&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Effect:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;Gain a level 3 trader, 75%, &quot;Shantidas Jhaveri&quot;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;b&gt;Event: &lt;/b&gt;&quot;Founding the Banyan Company&quot;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
-          <mxGeometry x="-799.9982812500002" y="3530.00390625" width="400" height="321" as="geometry" />
+          <mxGeometry x="-799.9982812500002" y="3521.00390625" width="400" height="321" as="geometry" />
         </mxCell>
         <mxCell id="ELQ0tngZtm4O2zIBP7bg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="J85Xqlta3njbegy8o-nm-1" source="HjZ7QNz5jctCh4NRV4tL-17" target="HjZ7QNz5jctCh4NRV4tL-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1323,7 +1323,7 @@
         <mxCell id="ELQ0tngZtm4O2zIBP7bg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="J85Xqlta3njbegy8o-nm-1" source="bhOBmcyc4FKzOdMvGxT_-0" target="ozKG4qNAHjxoJGmC8iEd-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bhOBmcyc4FKzOdMvGxT_-0" value="&lt;b&gt;Harbours of the Konkan Coast&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Trigger:&lt;br&gt;&lt;/i&gt;&lt;/b&gt;1) TRIGGERS FROM DELHI TREE&lt;br&gt;&lt;br&gt;&lt;b style=&quot;font-style: italic&quot;&gt;Effect:&lt;/b&gt;&lt;br&gt;Add claims to all coast CoT&#39;s in the Gulf of Aden trade node&lt;br&gt;Add claims to Tihama-al Yemen Area" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
+        <mxCell id="bhOBmcyc4FKzOdMvGxT_-0" value="&lt;b&gt;Harbours of the Konkan Coast&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Trigger:&lt;br&gt;&lt;/i&gt;&lt;/b&gt;1) TRIGGERS FROM DELHI TREE&lt;br&gt;&lt;br&gt;&lt;b style=&quot;font-style: italic&quot;&gt;Effect:&lt;br&gt;&lt;/b&gt;Konkan Area, &lt;b&gt;Konkan Ports: &lt;/b&gt;+15% Local Trade Power&lt;br&gt;Add claims to all coast CoT&#39;s in the Gulf of Aden trade node&lt;br&gt;Add claims to Tihama-al Yemen Area" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
           <mxGeometry x="-2239.99828125" y="4720.00390625" width="400" height="321" as="geometry" />
         </mxCell>
         <mxCell id="ozKG4qNAHjxoJGmC8iEd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="J85Xqlta3njbegy8o-nm-1" source="ozKG4qNAHjxoJGmC8iEd-15" target="ozKG4qNAHjxoJGmC8iEd-16" edge="1">
