@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T11:57:10.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="fi8W7LpOsXBPB2BuSz7U" version="17.4.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-04-19T13:59:33.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="16R6_qK4nCjUjSt458p9" version="17.4.5" type="github" pages="11">
   <diagram name="Delhi - Events" id="7PyVej1L49OewMhZc0Zd">
     <mxGraphModel dx="2006" dy="95" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1134,7 +1134,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Gujarat - Missions" id="huQAZ9a07DYnGyWrJAaS">
-    <mxGraphModel dx="4081" dy="-467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4573" dy="-20" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="J85Xqlta3njbegy8o-nm-0" />
         <mxCell id="J85Xqlta3njbegy8o-nm-1" parent="J85Xqlta3njbegy8o-nm-0" />
@@ -1201,7 +1201,7 @@
         <mxCell id="ELQ0tngZtm4O2zIBP7bg-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="J85Xqlta3njbegy8o-nm-1" source="HjZ7QNz5jctCh4NRV4tL-17" target="HjZ7QNz5jctCh4NRV4tL-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjZ7QNz5jctCh4NRV4tL-17" value="&lt;b&gt;Moneylending Practices&lt;br&gt;&lt;i&gt;Descr:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Trigger:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;1) Monthly Income is 25&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;2) Jain estate has 60 loyalty&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;3) Has no inflation&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;4) Is ahead of time in Admin Tech&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;5) Has embraced global trade&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Effect:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;b&gt;Gain access to the&amp;nbsp;&lt;/b&gt;&lt;b&gt;Svetambara&amp;nbsp;&lt;/b&gt;&lt;b&gt;Exchange privilige&lt;/b&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;b&gt;Svetambara Gachhas: &lt;/b&gt;+10% Global Tax Modifier, -0.75 Interest Per Annum, for 40 years&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
+        <mxCell id="HjZ7QNz5jctCh4NRV4tL-17" value="&lt;b&gt;Moneylending Practices&lt;br&gt;&lt;i&gt;Descr:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Trigger:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;1) Monthly Income is 25&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;2) Jain estate has 60 loyalty&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;3) Has no inflation&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;4) Is ahead of time in Admin Tech&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;5) Has embraced global trade&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Effect:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;b&gt;Gain access to the&amp;nbsp;&lt;/b&gt;&lt;b&gt;Svetambara&amp;nbsp;&lt;/b&gt;&lt;b&gt;Exchange&amp;nbsp;privilege&lt;/b&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;b&gt;Svetambara Gachhas: &lt;/b&gt;+10% Global Tax Modifier, -0.75 Interest Per Annum, for 40 years&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;align=left;verticalAlign=top;" parent="J85Xqlta3njbegy8o-nm-1" vertex="1">
           <mxGeometry x="-1279.9982812500002" y="2720.00390625" width="400" height="321" as="geometry" />
         </mxCell>
         <mxCell id="kWlPOP7CuKMRI_M8Pkds-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="J85Xqlta3njbegy8o-nm-1" source="nHIE96em1o0FsVc9sYRh-0" target="HjZ7QNz5jctCh4NRV4tL-12" edge="1">
@@ -1423,7 +1423,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Gujarat - Events" id="ZUIGeIeE4PNnDojVCTPv">
-    <mxGraphModel dx="1669" dy="-266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2218" dy="95" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MPqkln6L91QROBhOKlr4-0" />
         <mxCell id="MPqkln6L91QROBhOKlr4-1" parent="MPqkln6L91QROBhOKlr4-0" />
