@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T19:10:12.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="2zBplSPPnVjRK5P_qSUD" version="17.4.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-07-23T16:33:56.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="JJXpUmQVKPCkzATW4yyl" version="18.1.3" type="github" pages="8">
   <diagram name="Delhi - Events" id="7PyVej1L49OewMhZc0Zd">
-    <mxGraphModel dx="2006" dy="95" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3185" dy="1359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="zxpnnZI28Wbn_0HLuBUN-0" />
         <mxCell id="zxpnnZI28Wbn_0HLuBUN-1" parent="zxpnnZI28Wbn_0HLuBUN-0" />
@@ -1423,7 +1423,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Gujarat - Events" id="ZUIGeIeE4PNnDojVCTPv">
-    <mxGraphModel dx="2006" dy="95" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2006" dy="9" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MPqkln6L91QROBhOKlr4-0" />
         <mxCell id="MPqkln6L91QROBhOKlr4-1" parent="MPqkln6L91QROBhOKlr4-0" />
@@ -1499,33 +1499,6 @@
         <mxCell id="uoBWBbXM-HWNWP4ivrhA-0" value="&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;b&gt;Vinimaya Benka (Mission Empowered)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Descr:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;b&gt;+5% Loyalty, +10% Influence, -0% Crownland, -10Absolutism&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;b&gt;&lt;i&gt;Modifier:&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;-10% Global Tax Modifier&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;-1.5 Interest per Annum&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;-25% Trade Company Investment Cost&lt;/div&gt;&lt;br&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Land Modifier:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=10;align=left;verticalAlign=top;" parent="MPqkln6L91QROBhOKlr4-1" vertex="1">
           <mxGeometry x="639.9991693115235" y="3359.9952828979494" width="400" height="320" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="pvhoLWl3IkYsGqLXgzNg" name="Malwa - Missions">
-    <mxGraphModel dx="2173" dy="2142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="hqIp5TppwI-odAg6H8Hc-0" />
-        <mxCell id="hqIp5TppwI-odAg6H8Hc-1" parent="hqIp5TppwI-odAg6H8Hc-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="Multan - Missions" id="9rsAF8oA85FfTAU1UXD4">
-    <mxGraphModel dx="1195" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="CH2rCokX2gu_u48KjuSN-0" />
-        <mxCell id="CH2rCokX2gu_u48KjuSN-1" parent="CH2rCokX2gu_u48KjuSN-0" />
-        <mxCell id="zmJyR8QBmXlNUwaHQ8H--0" value="&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b&gt;Baghdad of the East&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Descr:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;div class=&quot;poem&quot;&gt;&lt;p style=&quot;margin: 0.5em 0px&quot;&gt;&#39;Multan of ours is comparable to the great Paradise&lt;br&gt;Tread slowly, the angels are paying obeisance here.&#39;&lt;/p&gt;&lt;div&gt;-&amp;nbsp;Bahauddin Zakariya&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;&lt;span style=&quot;line-height: 14.4px ; font-size: 10px&quot;&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Trigger:&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px ; line-height: 14.4px&quot;&gt;1) (Multan - 506) Has a higher development than Baghdad&lt;/div&gt;2) Has 50 prestige&lt;br&gt;&lt;br&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&lt;i style=&quot;font-size: 10px&quot;&gt;Effect:&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/i&gt;&lt;/b&gt;(Multan - 506) Add 2 Base production&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;(Multan - 506) Add 2 Base Tax&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;b&gt;Event: &lt;/b&gt;&quot;Approaching Multan&quot;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 14.4px&quot;&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;align=left;verticalAlign=top;" parent="CH2rCokX2gu_u48KjuSN-1" vertex="1">
-          <mxGeometry x="80.00171875000001" y="200.00390625" width="400" height="321" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="Bahamanis - Missions" id="bFlu118CQ6v_qOL5w5gD">
-    <mxGraphModel dx="1195" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="KzOs26jP5G_96FBtu8tR-0" />
-        <mxCell id="KzOs26jP5G_96FBtu8tR-1" parent="KzOs26jP5G_96FBtu8tR-0" />
       </root>
     </mxGraphModel>
   </diagram>
